@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/dao/impl/DetalleDAO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/dao/impl/FacturaDAO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/dao/IDAO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/dao/IDetalleDAO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/model/DetalleVO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/util/Conexion.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/dao/IFacturaDAO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/mediador/MediadorFacturacion.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/model/FacturaVO.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/util/test.java</file>
+            <file>file:/C:/Users/julii/Documents/NetBeansProjects/facturas/src/fachada/FachadaFacturacion.java</file>
+        </group>
+    </open-files>
+</project-private>
